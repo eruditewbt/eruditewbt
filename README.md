@@ -36,3 +36,6 @@ Learners, educators, builders, and organizations seeking practical, connected le
 - [LearnedData](https://github.com/eruditewbt/LearnedData)
 - [Learnreadables](https://github.com/eruditewbt/Learnreadables)
 - [Civilization Graph](https://github.com/eruditewbt/civilization-graph)
+- [Open Learnreadables](https://pdf-reader-77ef58.web.app/)
+- [Open LearnedData](https://examination-manager.web.app/)
+- [Open LivingActivities](https://task-master-d0262.web.app/)
