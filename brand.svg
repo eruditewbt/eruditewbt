@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">EruditeWBT mark</title><desc id="desc">An open book shaped into a rising path, representing learning in motion.</desc>
+  <rect width="128" height="128" rx="30" fill="#f2f1e8"/><circle cx="64" cy="64" r="48" fill="#145b49"/>
+  <path d="M31 43c13-4 24-1 33 7 9-8 20-11 33-7v39c-13-3-24 0-33 8-9-8-20-11-33-8V43Z" fill="none" stroke="#f7f5e9" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M64 50v39M41 53c6-1 11 0 16 3m30-3c-6-1-11 0-16 3M42 66c5 0 10 1 14 3m30-3c-5 0-10 1-14 3" fill="none" stroke="#c4e47b" stroke-linecap="round" stroke-width="4"/>
+</svg>

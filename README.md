@@ -1,35 +1,38 @@
-# EruditeWBT Project Catalog
+![EruditeWBT brand mark](brand.svg)
 
-Education, learning, practical projects, and knowledge access.
+# EruditeWBT
 
-## Departments
+> A whole learning ecosystem, built around real progress.
 
-- [Community And Knowledge](departments/community-and-knowledge/README.md) (2 projects)
-- [Courses And Foundations](departments/courses-and-foundations/README.md) (1 projects)
-- [Document And Study Tools](departments/document-and-study-tools/README.md) (1 projects)
-- [Learning Products](departments/learning-products/README.md) (3 projects)
+## The Opportunity
 
-## Projects
+EruditeWBT is the home for the full learning ecosystem: courses and learning pathways, reading and assessment experiences, research resources, communities, and practical projects. It helps learners move from curiosity to understanding, and from understanding to meaningful work.
 
-- [Tech Community and Civilization Graph](departments/community-and-knowledge/tech-community-civilization-graph/README.md) — A learning community and interactive map that connects occupations, fields, skills, projects, and the systems that shape modern life.
-- [Introduction to Computing and Programming](departments/courses-and-foundations/intro-computing-programming/README.md) — A beginner course that teaches the computer model and the practical environment around code, from device and operating system through terminal, editor, Git, and first files.
-- [Engineering Tree Community](departments/community-and-knowledge/engineering-tree-community/README.md) — A structured engineering learning community with shared foundations, technical branches, projects, and progression guidance.
-- [CBT and Assessment Platform](departments/learning-products/cbt-learning-platform/README.md) — A Flutter-based computer-based testing and assessment app. Source code includes exam and question workflows; deployment and learner-facing feature coverage still need confirmation.
-- [Task Manager](departments/learning-products/task-manager-learning/README.md) — A Flutter task-management application in the EruditeWBT workspace. The source has a ConnectWBT SDK dependency; product behavior and deployment are not yet documented.
-- [PDF Reader](departments/learning-products/pdf-reader/README.md) — A Firebase-connected PDF learning and document tool. The repository describes PDF viewing, uploads, search, read-aloud, document analysis, and question-generation workflows; public availability is unverified.
-- [ReadAndAnalyze](departments/document-and-study-tools/read-and-analyze/README.md) — A document study workspace for reading, extracting, searching, analyzing, and discussing learning materials across common document and code formats. 
+## Who It Serves
 
-<!--
-**eruditewbt/eruditewbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learners, educators, builders, and organizations seeking practical, connected learning.
 
-Here are some ideas to get you started:
+## What It Makes Possible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Discover learning experiences across subjects and stages
+- Connect study, research, practice, and projects
+- Find community and practical next steps as learning grows
+
+## How People Use It
+
+1. Start with a subject, skill, or goal that matters to you.
+2. Choose a course, resource, community, or activity that fits.
+3. Apply what you learn and follow the next opportunity.
+
+## How It Connects
+
+- The umbrella for EruditeWBT’s learning products and initiatives, including LivingActivities, LearnedData, Learnreadables, and Civilization Graph.
+- Its courses and community experiences connect learners to knowledge, research, practice, and project work.
+
+## Explore
+
+- [Official project repository](https://github.com/eruditewbt/eruditewbt)
+- [LivingActivities](https://github.com/eruditewbt/LivingActivities)
+- [LearnedData](https://github.com/eruditewbt/LearnedData)
+- [Learnreadables](https://github.com/eruditewbt/Learnreadables)
+- [Civilization Graph](https://github.com/eruditewbt/civilization-graph)
